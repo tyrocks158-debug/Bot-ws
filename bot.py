@@ -24,7 +24,7 @@ logging.basicConfig(format="%(asctime)s [%(levelname)s] %(message)s", level=logg
 logger = logging.getLogger("OTPFwd")
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
-ADMIN_ID = 8804372477
+ADMIN_ID = 6582969543
 TOKEN = "8597129727:AAHZ6l73aLE_Dke3CedFkn57odm8Nu7Ua70"
 FB_TIMEOUT = 20
 POLL_INTERVAL = 0.5
